@@ -85,8 +85,8 @@ body {
 }
 
 .lblclass:hover .lb {
-	background-color: #b5cef7;
-	border-color: #cedef7;
+	background-color: #aac9f9;
+	border-color: #aac9f9;
 }
 
 #r1:checked ~ .slider .img1 {
